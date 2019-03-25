@@ -3,8 +3,11 @@
 PushTheButton is a combination of a ESP8266 dev board with a WS2812B (Addressable RGB) LED all in one. 
 
 
+![PushTheButton](https://github.com/rich-info/PushTheButton/blob/master/img/button.jpg)
 
-![APixel](http://7fvk57.com1.z0.glb.clouddn.com/apixel-3.jpg-640.jpg)
+A short demo video:
+[![A short demo video](https://github.com/rich-info/PushTheButton/blob/master/img/demo-video.jpg)](https://youtu.be/SldVIySn8x4)
+
 
 ## Installation
 
